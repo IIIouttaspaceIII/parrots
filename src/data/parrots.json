@@ -1,0 +1,3239 @@
+[
+  {
+    "id": "1-k-k-p-",
+    "commonName": "Kākāpō",
+    "scientificName": "S. habroptilus",
+    "wikiTitle": "Kākāpō",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Sirocco_full_length_portrait.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "2-new-zealand-k-k-",
+    "commonName": "New Zealand kākā",
+    "scientificName": "N. meridionalis",
+    "wikiTitle": "New Zealand kākā",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Kaka-Parrots.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "3-norfolk-k-k-",
+    "commonName": "Norfolk kākā",
+    "scientificName": "N. productus",
+    "wikiTitle": "Norfolk kākā",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/John-Gould-001.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "4-kea",
+    "commonName": "Kea",
+    "scientificName": "N. notabilis",
+    "wikiTitle": "Kea",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Kea_on_rock_while_snowing.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "5-red-tailed-black-cockatoo",
+    "commonName": "Red-tailed black cockatoo",
+    "scientificName": "C. banksii",
+    "wikiTitle": "Red-tailed black cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Calyptorhynchus_banksii_(pair)-8-2cp.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "6-glossy-black-cockatoo",
+    "commonName": "Glossy black cockatoo",
+    "scientificName": "C. lathami",
+    "wikiTitle": "Glossy black cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Glossy_black_cockatoo_male_kobble08.JPG",
+    "dimorphism": {
+      "male": "https://en.wikipedia.org/wiki/Special:FilePath/Glossy_black_cockatoo_male_kobble08.JPG",
+      "female": "https://en.wikipedia.org/wiki/Special:FilePath/Glossy_black_cockatoo_fem_kobble08.JPG"
+    }
+  },
+  {
+    "id": "7-baudin-s-black-cockatoo",
+    "commonName": "Baudin's black cockatoo",
+    "scientificName": "Z. baudinii",
+    "wikiTitle": "Baudin's black cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Calyptorhynchus_baudinii_(female)_-Margaret_River-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "8-yellow-tailed-black-cockatoo",
+    "commonName": "Yellow-tailed black cockatoo",
+    "scientificName": "Z. funerea",
+    "wikiTitle": "Yellow-tailed black cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Calyptorhynchus_funereus_(male)_-Wamboin-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "9-carnaby-s-black-cockatoo",
+    "commonName": "Carnaby's black cockatoo",
+    "scientificName": "Z. latirostris",
+    "wikiTitle": "Carnaby's black cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Calyptorhynchus_latirostris_-Albany%2C_Western_Australia%2C_Australia-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "10-cockatiel",
+    "commonName": "Cockatiel",
+    "scientificName": "N. hollandicus",
+    "wikiTitle": "Cockatiel",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cockatielmale.jpg",
+    "dimorphism": {
+      "male": "https://en.wikipedia.org/wiki/Special:FilePath/Cockatielmale.jpg",
+      "female": "https://en.wikipedia.org/wiki/Special:FilePath/Cockatielfemale.jpg"
+    }
+  },
+  {
+    "id": "11-palm-cockatoo",
+    "commonName": "Palm cockatoo",
+    "scientificName": "P. aterrimus",
+    "wikiTitle": "Palm cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Probosciger_aterrimus-20030511.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "12-gang-gang-cockatoo",
+    "commonName": "Gang-gang cockatoo",
+    "scientificName": "C. fimbriatum",
+    "wikiTitle": "Gang-gang cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Callocephalon_fimbriatum_male_-_Callum_Brae.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "13-galah",
+    "commonName": "Galah",
+    "scientificName": "E. roseicapilla",
+    "wikiTitle": "Galah",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eolophus_roseicapilla_AF.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "14-white-cockatoo",
+    "commonName": "White cockatoo",
+    "scientificName": "C. alba",
+    "wikiTitle": "White cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_alba_-Pairi_Daiza%2C_Hainaut%2C_Belgium-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "15-solomons-cockatoo",
+    "commonName": "Solomons cockatoo",
+    "scientificName": "C. ducorpsii",
+    "wikiTitle": "Solomons cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Hana2.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "16-sulphur-crested-cockatoo",
+    "commonName": "Sulphur-crested cockatoo",
+    "scientificName": "C. galerita",
+    "wikiTitle": "Sulphur-crested cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_galerita_Tas_2.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "17-tanimbar-corella",
+    "commonName": "Tanimbar corella",
+    "scientificName": "C. goffiniana",
+    "wikiTitle": "Tanimbar corella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_goffiniana_-in_tree-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "18-red-vented-cockatoo",
+    "commonName": "Red-vented cockatoo",
+    "scientificName": "C. haematuropygia",
+    "wikiTitle": "Red-vented cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_haematuropygia.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "19-pink-cockatoo",
+    "commonName": "Pink cockatoo",
+    "scientificName": "C. leadbeateri",
+    "wikiTitle": "Pink cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_leadbeateri_-SW_Queensland-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "20-salmon-crested-cockatoo",
+    "commonName": "Salmon-crested cockatoo",
+    "scientificName": "C. moluccensis",
+    "wikiTitle": "Salmon-crested cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_moluccensis_-Jurong_Bird_Park_-side-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "21-blue-eyed-cockatoo",
+    "commonName": "Blue-eyed cockatoo",
+    "scientificName": "C. ophthalmica",
+    "wikiTitle": "Blue-eyed cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_ophthalmica_-Vogelpark_Walsrode-6b-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "22-western-corella",
+    "commonName": "Western corella",
+    "scientificName": "C. pastinator",
+    "wikiTitle": "Western corella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_pastinator_-Blackpool_Zoo-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "23-little-corella",
+    "commonName": "Little corella",
+    "scientificName": "C. sanguinea",
+    "wikiTitle": "Little corella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacatua_sanguinea_upright_crop.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "24-yellow-crested-cockatoo",
+    "commonName": "Yellow-crested cockatoo",
+    "scientificName": "C. sulphurea",
+    "wikiTitle": "Yellow-crested cockatoo",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lesser-sulphur_crested_cockatoo_31l07.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "25-long-billed-corella",
+    "commonName": "Long-billed corella",
+    "scientificName": "C. tenuirostris",
+    "wikiTitle": "Long-billed corella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Long-billed_Corella.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "26-grey-parrot",
+    "commonName": "Grey parrot",
+    "scientificName": "P. erithacus",
+    "wikiTitle": "Grey parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacus_erithacus_-perching_on_tray-8d.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "27-timneh-parrot",
+    "commonName": "Timneh parrot",
+    "scientificName": "P. timneh",
+    "wikiTitle": "Timneh parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacus_erithacus_timneh-parrot_on_cage.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "28-senegal-parrot",
+    "commonName": "Senegal parrot",
+    "scientificName": "P. senegalus",
+    "wikiTitle": "Senegal parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Poicephalus_senegalus_-Maspalomas%2C_Gran_Canaria%2C_Canary_Islands%2C_Spain-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "29-red-bellied-parrot",
+    "commonName": "Red-bellied parrot",
+    "scientificName": "P. rufiventris",
+    "wikiTitle": "Red-bellied parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Red-bellied_Parrot_pair_in_a_cage.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "30-r-ppell-s-parrot",
+    "commonName": "Rüppell's parrot",
+    "scientificName": "P. rueppellii",
+    "wikiTitle": "Rüppell's parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Poicephalus_rueppellii_-Hobatere_Lodge%2C_Kamanjab%2C_Namibia-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "31-brown-necked-parrot",
+    "commonName": "Brown-necked parrot",
+    "scientificName": "P. fuscicollis",
+    "wikiTitle": "Brown-necked parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Kapsky.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "32-cape-parrot",
+    "commonName": "Cape parrot",
+    "scientificName": "P. robustus",
+    "wikiTitle": "Cape parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Poicephalus_robustus_-South_Africa-6a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "33-meyer-s-parrot",
+    "commonName": "Meyer's parrot",
+    "scientificName": "P. meyeri",
+    "wikiTitle": "Meyer's parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Poicephalus_meyeri_-Zimbabwe_-two-8-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "34-red-fronted-parrot",
+    "commonName": "Red-fronted parrot",
+    "scientificName": "P. gulielmi",
+    "wikiTitle": "Red-fronted parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Poicephalus_gulielmi_-Birds_of_Eden_-South_Africa-8a-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "35-yellow-fronted-parrot",
+    "commonName": "Yellow-fronted parrot",
+    "scientificName": "P. flavifrons",
+    "wikiTitle": "Yellow-fronted parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Poicephalus_flavifrons_-near_Bishangari_Lodge%2C_Ethiopia-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "36-brown-headed-parrot",
+    "commonName": "Brown-headed parrot",
+    "scientificName": "P. cryptoxanthus",
+    "wikiTitle": "Brown-headed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Brown-headed_Parrot_(Poicephalus_cryptoxanthus)_(11688869593).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "37-burrowing-parrot",
+    "commonName": "Burrowing parrot",
+    "scientificName": "C. patagonus",
+    "wikiTitle": "Burrowing parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Burrowing_Parrot_RWD1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "38-slender-billed-parakeet",
+    "commonName": "Slender-billed parakeet",
+    "scientificName": "E. leptorhynchus",
+    "wikiTitle": "Slender-billed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Slender-billed_Parakeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "39-austral-parakeet",
+    "commonName": "Austral parakeet",
+    "scientificName": "E. ferrugineus",
+    "wikiTitle": "Austral parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cacha%C3%B1a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "40-thick-billed-parrot",
+    "commonName": "Thick-billed parrot",
+    "scientificName": "R. pachyrhyncha",
+    "wikiTitle": "Thick-billed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Rhynchopsitta_pachyrhyncha_-Arizona-Sonora_Desert_Museum%2C_Tucson%2C_Arizona%2C_USA-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "41-maroon-fronted-parrot",
+    "commonName": "Maroon-fronted parrot",
+    "scientificName": "R. terrisi",
+    "wikiTitle": "Maroon-fronted parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Rhynchopsitta_terrisi_-captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "42-ochre-marked-parakeet",
+    "commonName": "Ochre-marked parakeet",
+    "scientificName": "P. cruentata",
+    "wikiTitle": "Ochre-marked parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_cruentata_-two_perching-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "43-maroon-bellied-parakeet",
+    "commonName": "Maroon-bellied parakeet",
+    "scientificName": "P. frontalis",
+    "wikiTitle": "Maroon-bellied parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Maroon-bellied_Conure_(Pyrrhura_frontalis)_-Sao_Paulo.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "44-crimson-bellied-parakeet",
+    "commonName": "Crimson-bellied parakeet",
+    "scientificName": "P. perlata",
+    "wikiTitle": "Crimson-bellied parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_perlata_-captive-8a-1c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "45-pearly-parakeet",
+    "commonName": "Pearly parakeet",
+    "scientificName": "P. lepida",
+    "wikiTitle": "Pearly parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_lepida_-pet-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "46-green-cheeked-parakeet",
+    "commonName": "Green-cheeked parakeet",
+    "scientificName": "P. molinae",
+    "wikiTitle": "Green-cheeked parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_molinae_-captive-perch-8a-1cp.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "47-painted-parakeet",
+    "commonName": "Painted parakeet",
+    "scientificName": "P. picta",
+    "wikiTitle": "Painted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Venezuelan_Parakeet_-_Perico_Pintado_(_Pyrrhura_picta_emma).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "48-azuero-parakeet",
+    "commonName": "Azuero parakeet",
+    "scientificName": "P. eisenmanni",
+    "wikiTitle": "Azuero parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_picta_eisenmanni.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "49-venezuelan-parakeet",
+    "commonName": "Venezuelan parakeet",
+    "scientificName": "P. emma",
+    "wikiTitle": "Venezuelan parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Venezuelan_Parakeet_-_Perico_Pintado_(_Pyrrhura_picta_emma)_(15839019737)_(2).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "50-bonaparte-s-parakeet",
+    "commonName": "Bonaparte's parakeet",
+    "scientificName": "P. lucianii",
+    "wikiTitle": "Bonaparte's parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_lucianii.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "51-rose-fronted-parakeet",
+    "commonName": "Rose-fronted parakeet",
+    "scientificName": "P. roseifrons",
+    "wikiTitle": "Rose-fronted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Painted_Parakeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "52-white-eared-parakeet",
+    "commonName": "White-eared parakeet",
+    "scientificName": "P. leucotis",
+    "wikiTitle": "White-eared parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_leucotis_leucotis_01.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "53-grey-breasted-parakeet",
+    "commonName": "Grey-breasted parakeet",
+    "scientificName": "P. griseipectus",
+    "wikiTitle": "Grey-breasted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_griseipectus_-upper_body-8a-2c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "54-fiery-shouldered-parakeet",
+    "commonName": "Fiery-shouldered parakeet",
+    "scientificName": "P. egregia",
+    "wikiTitle": "Fiery-shouldered parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Demerara_cock.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "55-santa-marta-parakeet",
+    "commonName": "Santa Marta parakeet",
+    "scientificName": "P. viridicata",
+    "wikiTitle": "Santa Marta parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_viridicata_(female).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "56-maroon-tailed-parakeet",
+    "commonName": "Maroon-tailed parakeet",
+    "scientificName": "P. melanura",
+    "wikiTitle": "Maroon-tailed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_melanura_berlepschi_Keulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "57-el-oro-parakeet",
+    "commonName": "El Oro parakeet",
+    "scientificName": "P. orcesi",
+    "wikiTitle": "El Oro parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/El_Oro_Parakeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "58-black-capped-parakeet",
+    "commonName": "Black-capped parakeet",
+    "scientificName": "P. rupicola",
+    "wikiTitle": "Black-capped parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_rupicola_-captive-6a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "59-white-breasted-parakeet",
+    "commonName": "White-breasted parakeet",
+    "scientificName": "P. albipectus",
+    "wikiTitle": "White-breasted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/White-breasted_Parakeets_(Pyrrhua_albipectus).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "60-flame-winged-parakeet",
+    "commonName": "Flame-winged parakeet",
+    "scientificName": "P. calliptera",
+    "wikiTitle": "Flame-winged parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_calliptera.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "61-blood-eared-parakeet",
+    "commonName": "Blood-eared parakeet",
+    "scientificName": "P. hoematotis",
+    "wikiTitle": "Blood-eared parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Red-eared_Parakeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "62-rose-crowned-parakeet",
+    "commonName": "Rose-crowned parakeet",
+    "scientificName": "P. rhodocephala",
+    "wikiTitle": "Rose-crowned parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/PyrrhuraRhodocephalaKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "63-sulphur-winged-parakeet",
+    "commonName": "Sulphur-winged parakeet",
+    "scientificName": "P. hoffmanni",
+    "wikiTitle": "Sulphur-winged parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrrhura_hoffmanni_-Costa_Rica-4-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "64-glaucous-macaw",
+    "commonName": "Glaucous macaw",
+    "scientificName": "A. glaucus",
+    "wikiTitle": "Glaucous macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aglaucus3.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "65-hyacinth-macaw",
+    "commonName": "Hyacinth macaw",
+    "scientificName": "A. hyacinthinus",
+    "wikiTitle": "Hyacinth macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Anodorhynchus_hyacinthinus_-Disney_-Florida-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "66-lear-s-macaw",
+    "commonName": "Lear's macaw",
+    "scientificName": "A. leari",
+    "wikiTitle": "Lear's macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lear's_Macaw_Anodorhynchus_leari.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "67-golden-plumed-parakeet",
+    "commonName": "Golden-plumed parakeet",
+    "scientificName": "L. branickii",
+    "wikiTitle": "Golden-plumed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Leptosittaca_branickii_-Tapichalaca_Reserve-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "68-yellow-eared-parrot",
+    "commonName": "Yellow-eared parrot",
+    "scientificName": "O. icterotis",
+    "wikiTitle": "Yellow-eared parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ognorhynchus_icterotis_-Colombia-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "69-southern-red-shouldered-macaw",
+    "commonName": "Southern red-shouldered macaw",
+    "scientificName": "D. cumanensis",
+    "wikiTitle": "Red-shouldered macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Diopsittaca_nobilis_-Parque_das_Aves%2C_Foz_do_Iguacu%2C_Brazil-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "70-northern-red-shouldered-macaw",
+    "commonName": "Northern Red-shouldered Macaw",
+    "scientificName": "D. nobilis",
+    "wikiTitle": "Hahn's macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Diopsittaca_nobilis_-pet-2-4c.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "71-golden-parakeet",
+    "commonName": "Golden parakeet",
+    "scientificName": "G. guarouba",
+    "wikiTitle": "Golden parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Guaruba_guarouba_-Gramado_Zoo%2C_Brazil-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "72-carolina-parakeet",
+    "commonName": "Carolina parakeet",
+    "scientificName": "C. carolinensis",
+    "wikiTitle": "Carolina parakeet",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Conuropsis_carolinensis_(Carolina_parakeet).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "73-spix-s-macaw",
+    "commonName": "Spix's macaw",
+    "scientificName": "C. spixii",
+    "wikiTitle": "Spix's macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cyanopsitta_spixii_-_Museum_fur_Naturkunde%2C_Berlin_-_DSC00194.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "74-red-bellied-macaw",
+    "commonName": "Red-bellied macaw",
+    "scientificName": "O. manilatus",
+    "wikiTitle": "Red-bellied macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Orthopsittaca_manilata_-Brazil-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "75-great-green-macaw",
+    "commonName": "Great green macaw",
+    "scientificName": "A. ambiguus",
+    "wikiTitle": "Great green macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ara_ambiguus_-captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "76-blue-and-yellow-macaw",
+    "commonName": "Blue-and-yellow macaw",
+    "scientificName": "A. ararauna",
+    "wikiTitle": "Blue-and-yellow macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Blue-and-Yellow-Macaw.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "77-red-and-green-macaw",
+    "commonName": "Red-and-green macaw",
+    "scientificName": "A. chloropterus",
+    "wikiTitle": "Red-and-green macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ara_chloropterus_-Birmingham_Zoo%2C_Alabama%2C_USA-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "78-blue-throated-macaw",
+    "commonName": "Blue-throated macaw",
+    "scientificName": "A. glaucogularis",
+    "wikiTitle": "Blue-throated macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ara_glaucogularis_-Cincinnati_Zoo-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "79-scarlet-macaw",
+    "commonName": "Scarlet macaw",
+    "scientificName": "A. macao",
+    "wikiTitle": "Scarlet macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Scarlet-Macaw-cr.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "80-military-macaw",
+    "commonName": "Military macaw",
+    "scientificName": "A. militaris",
+    "wikiTitle": "Military macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ara_militaris_-London_Zoo-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "81-red-fronted-macaw",
+    "commonName": "Red-fronted macaw",
+    "scientificName": "A. rubrogenys",
+    "wikiTitle": "Red-fronted macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ara_rubrogenys_-Tulsa_Zoo%2C_Oklahoma%2C_USA-8a-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "82-chestnut-fronted-macaw",
+    "commonName": "Chestnut-fronted macaw",
+    "scientificName": "A. severus",
+    "wikiTitle": "Chestnut-fronted macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Chestnut-fronted_Macaw_(Ara_severa)_-Southwicks_Zoo_c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "83-cuban-macaw",
+    "commonName": "Cuban macaw",
+    "scientificName": "A. tricolor",
+    "wikiTitle": "Cuban macaw",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/A._tricolor.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "84-golden-collared-macaw",
+    "commonName": "Golden-collared macaw",
+    "scientificName": "P. auricollis",
+    "wikiTitle": "Golden-collared macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Primolius_auricollis_-Panaewa_Rainforest_Zoo%2C_Hawaii%2C_USA_-two-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "85-blue-headed-macaw",
+    "commonName": "Blue-headed macaw",
+    "scientificName": "P. couloni",
+    "wikiTitle": "Blue-headed macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Primolius_couloni_-captive-8a-3cp.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "86-blue-winged-macaw",
+    "commonName": "Blue-winged macaw",
+    "scientificName": "P. maracana",
+    "wikiTitle": "Blue-winged macaw",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Primolius_maracana_-two_captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "87-golden-capped-parakeet",
+    "commonName": "Golden-capped parakeet",
+    "scientificName": "A. auricapillus",
+    "wikiTitle": "Golden-capped parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_auricapillus_-Jurong_Bird_Park_-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "88-jandaya-parakeet",
+    "commonName": "Jandaya parakeet",
+    "scientificName": "A. jandaya",
+    "wikiTitle": "Jandaya parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_Jandaya_-in_tree-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "89-sulphur-breasted-parakeet",
+    "commonName": "Sulphur-breasted parakeet",
+    "scientificName": "A. maculata",
+    "wikiTitle": "Sulphur-breasted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_pintoi.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "90-nanday-parakeet",
+    "commonName": "Nanday parakeet",
+    "scientificName": "A. nenday",
+    "wikiTitle": "Nanday parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/2011-4_parrot_in_Strasbourg.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "91-sun-parakeet",
+    "commonName": "Sun parakeet",
+    "scientificName": "A. solstitialis",
+    "wikiTitle": "Sun parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_solstitialis_-captive-two-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "92-dusky-headed-parakeet",
+    "commonName": "Dusky-headed parakeet",
+    "scientificName": "A. weddellii",
+    "wikiTitle": "Dusky-headed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_weddellii_-Beale_Park%2C_Reading%2C_Berkshire%2C_England-8a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "93-aztec-parakeet",
+    "commonName": "Aztec parakeet",
+    "scientificName": "E. astec",
+    "wikiTitle": "Aztec parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aztec_Parakeet_(Aratinga_astec)_-Guatemala-8-2c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "94-peach-fronted-parakeet",
+    "commonName": "Peach-fronted parakeet",
+    "scientificName": "E. aurea",
+    "wikiTitle": "Peach-fronted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_aurea_-Brazil-8-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "95-caatinga-parakeet",
+    "commonName": "Caatinga parakeet",
+    "scientificName": "E. cactorum",
+    "wikiTitle": "Caatinga parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_cactorum_-Brazil-8-2c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "96-orange-fronted-parakeet",
+    "commonName": "Orange-fronted parakeet",
+    "scientificName": "E. canicularis",
+    "wikiTitle": "Eupsittula canicularis",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eupsittula_canicularis%2C_Gulf_of_Papagayo%2C_Costa_Rica_1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "97-jamaican-parakeet",
+    "commonName": "Jamaican parakeet",
+    "scientificName": "E. nana",
+    "wikiTitle": "Olive-throated parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Olive-throated_Parakeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "98-brown-throated-parakeet",
+    "commonName": "Brown-throated parakeet",
+    "scientificName": "E. pertinax",
+    "wikiTitle": "Brown-throated parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_pertinax_venezuelae_-Venezuela-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "99-blue-crowned-parakeet",
+    "commonName": "Blue-crowned parakeet",
+    "scientificName": "P. acuticaudatus",
+    "wikiTitle": "Blue-crowned parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_acuticaudata_-San_Isidro_-Bolivia_-eating-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "100-hispaniolan-parakeet",
+    "commonName": "Hispaniolan parakeet",
+    "scientificName": "P. chloropterus",
+    "wikiTitle": "Hispaniolan parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Haitisittich_Psittacara_chloropterus_chloropterus.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "101-red-masked-parakeet",
+    "commonName": "Red-masked parakeet",
+    "scientificName": "P. erythrogenys",
+    "wikiTitle": "Red-masked parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Red-masked_Parakeet-Aratinga_erythrogenys_in_a_tree.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "102-cuban-parakeet",
+    "commonName": "Cuban parakeet",
+    "scientificName": "P. euops",
+    "wikiTitle": "Cuban parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cuban_Parakeet_(Aratinga_euops)_-in_tree-6-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "103-finsch-s-parakeet",
+    "commonName": "Finsch's parakeet",
+    "scientificName": "P. finschi",
+    "wikiTitle": "Finsch's parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Crimson-fronted_parakeet_Osa.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "104-green-parakeet",
+    "commonName": "Green parakeet",
+    "scientificName": "P. holochlorus",
+    "wikiTitle": "Green parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Green_Parakeet_-in_tree_-South_Texas-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "105-guadeloupe-parakeet",
+    "commonName": "Guadeloupe parakeet",
+    "scientificName": "P. labati",
+    "wikiTitle": "Guadeloupe parakeet",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Extinctbirds1907_P16_Conurus_labati0313-cropped.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "106-white-eyed-parakeet",
+    "commonName": "White-eyed parakeet",
+    "scientificName": "P. leucophthalmus",
+    "wikiTitle": "White-eyed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_leucophthalma_-Piraju_-Brazil-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "107-puerto-rican-parakeet",
+    "commonName": "Puerto Rican parakeet",
+    "scientificName": "P. maugei",
+    "wikiTitle": "Puerto Rican parakeet",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_chloroptera_maugei.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "108-mitred-parakeet",
+    "commonName": "Mitred parakeet",
+    "scientificName": "P. mitratus",
+    "wikiTitle": "Mitred parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Mitred_Parakeet_Florida.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "109-red-throated-parakeet",
+    "commonName": "Red-throated parakeet",
+    "scientificName": "P. rubritorquis",
+    "wikiTitle": "Red-throated parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_rubritorquis_-Honduras-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "110-scarlet-fronted-parakeet",
+    "commonName": "Scarlet-fronted parakeet",
+    "scientificName": "P. wagleri",
+    "wikiTitle": "Scarlet-fronted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aratinga_wagleri_-Jurong_BirdPark-4.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "111-green-thighed-parrot",
+    "commonName": "Green-thighed parrot",
+    "scientificName": "P. leucogaster",
+    "wikiTitle": "Green-thighed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionites_leucogaster_-Parque_de_las_Aves_-Foz_de_Iguazu-6a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "112-black-legged-parrot",
+    "commonName": "Black-legged parrot",
+    "scientificName": "P. xanthomerius",
+    "wikiTitle": "Black-legged parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionites_leucogaster_-_pet_perching_near_books.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "113-black-headed-parrot",
+    "commonName": "Black-headed parrot",
+    "scientificName": "P. melanocephalus",
+    "wikiTitle": "Black-headed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionites_melanocephalus_-Jurong_Bird_Park-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "114-red-fan-parrot",
+    "commonName": "Red-fan parrot",
+    "scientificName": "D. accipitrinus",
+    "wikiTitle": "Red-fan parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Deroptyus_accipitrinus_or_Red-fan_Parrot_on_ground.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "115-pacific-parrotlet",
+    "commonName": "Pacific parrotlet",
+    "scientificName": "F. coelestis",
+    "wikiTitle": "Pacific parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Forpus_coelestis_-Peru_-male-8-2c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "116-spectacled-parrotlet",
+    "commonName": "Spectacled parrotlet",
+    "scientificName": "F. conspicillatus",
+    "wikiTitle": "Spectacled parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Forpus_conspicillatus_-Colombia_-pair-8-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "117-dusky-billed-parrotlet",
+    "commonName": "Dusky-billed parrotlet",
+    "scientificName": "F. modestus",
+    "wikiTitle": "Dusky-billed parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Forpus_sclateri_-_Dusky-billed_Parrotlet_01.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "118-green-rumped-parrotlet",
+    "commonName": "Green-rumped parrotlet",
+    "scientificName": "F. passerinus",
+    "wikiTitle": "Green-rumped parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Forpus_passerinus-Venezuela-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "119-yellow-faced-parrotlet",
+    "commonName": "Yellow-faced parrotlet",
+    "scientificName": "F. xanthops",
+    "wikiTitle": "Yellow-faced parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Forpus_xanthops_-AFA_show_bird-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "120-cobalt-rumped-parrotlet",
+    "commonName": "Cobalt-rumped parrotlet",
+    "scientificName": "F. xanthopterygius",
+    "wikiTitle": "Cobalt-rumped parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Forpus_xanthopterygius_-Goias%2C_Brazil_-male-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "121-mountain-parakeet",
+    "commonName": "Mountain parakeet",
+    "scientificName": "P. aurifrons",
+    "wikiTitle": "Mountain parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psilopsiagon_a_aurifrons-Male-JMM-SBartolo_Zarate-DSC_0510-20111030.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "122-grey-hooded-parakeet",
+    "commonName": "Grey-hooded parakeet",
+    "scientificName": "P. aymara",
+    "wikiTitle": "Grey-hooded parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psilopsiagon_aymara_-Capilla_del_Monte_-four-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "123-barred-parakeet",
+    "commonName": "Barred parakeet",
+    "scientificName": "B. lineola",
+    "wikiTitle": "Barred parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Bolborhynchus_lineola_-captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "124-andean-parakeet",
+    "commonName": "Andean parakeet",
+    "scientificName": "B. orbygnesius",
+    "wikiTitle": "Andean parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/BolborhynchusAndicolaKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "125-tepui-parrotlet",
+    "commonName": "Tepui parrotlet",
+    "scientificName": "N. panychlora",
+    "wikiTitle": "Tepui parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/BrotogerysMicrocerculusKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "126-lilac-tailed-parrotlet",
+    "commonName": "Lilac-tailed parrotlet",
+    "scientificName": "T. batavicus",
+    "wikiTitle": "Lilac-tailed parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lilac-tailed_Parrotlet.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "127-scarlet-shouldered-parrotlet",
+    "commonName": "Scarlet-shouldered parrotlet",
+    "scientificName": "T. huetii",
+    "wikiTitle": "Scarlet-shouldered parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Touit_huetii_-Napo_Wildlife_Centre%2C_Yasuni_National_Park%2C_Ecuador_-clay_lick-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "128-blue-fronted-parrotlet",
+    "commonName": "Blue-fronted parrotlet",
+    "scientificName": "T. dilectissimus",
+    "wikiTitle": "Blue-fronted parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/UrochromaDilectissimaSmit.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "129-brown-backed-parrotlet",
+    "commonName": "Brown-backed parrotlet",
+    "scientificName": "T. melanonotus",
+    "wikiTitle": "Brown-backed parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Touit_melanonota_-Ubatuba%2C_Sao_Paulo%2C_Brazil-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "130-spot-winged-parrotlet",
+    "commonName": "Spot-winged parrotlet",
+    "scientificName": "T. stictopterus",
+    "wikiTitle": "Spot-winged parrotlet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/UrochromaStictopteraWolf.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "131-pileated-parrot",
+    "commonName": "Pileated parrot",
+    "scientificName": "P. pileata",
+    "wikiTitle": "Pileated parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pileated_Parrot.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "132-blue-bellied-parrot",
+    "commonName": "Blue-bellied parrot",
+    "scientificName": "T. malachitacea",
+    "wikiTitle": "Blue-bellied parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Triclaria_malachitacea_-two_captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "133-bald-parrot",
+    "commonName": "Bald parrot",
+    "scientificName": "P. aurantiocephala",
+    "wikiTitle": "Bald parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Bald_parrot.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "134-orange-cheeked-parrot",
+    "commonName": "Orange-cheeked parrot",
+    "scientificName": "P. barrabandi",
+    "wikiTitle": "Orange-cheeked parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrilia_barrabandi_-Napo_Wildlife_Reserve-4.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "135-caica-parrot",
+    "commonName": "Caica parrot",
+    "scientificName": "P. caica",
+    "wikiTitle": "Caica parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pyrilia_caica_-_Caica_Parrot.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "136-brown-hooded-parrot",
+    "commonName": "Brown-hooded parrot",
+    "scientificName": "P. haematotis",
+    "wikiTitle": "Brown-hooded parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Brown-hooded_Parrot_2_Eduardo_Rivero.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "137-saffron-headed-parrot",
+    "commonName": "Saffron-headed parrot",
+    "scientificName": "P. pyrilia",
+    "wikiTitle": "Saffron-headed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Saffron-headed_Parrot_(Pyrilia_pyrilia)_(8079746799).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "138-bronze-winged-parrot",
+    "commonName": "Bronze-winged parrot",
+    "scientificName": "P. chalcopterus",
+    "wikiTitle": "Bronze-winged parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Bronze-winged_Parrot_(Pionus_chalcopterus).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "139-dusky-parrot",
+    "commonName": "Dusky parrot",
+    "scientificName": "P. fuscus",
+    "wikiTitle": "Dusky parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionus_fuscus-0.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "140-scaly-headed-parrot",
+    "commonName": "Scaly-headed parrot",
+    "scientificName": "P. maximiliani",
+    "wikiTitle": "Scaly-headed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionus_maximiliani_-pet-4a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "141-blue-headed-parrot",
+    "commonName": "Blue-headed parrot",
+    "scientificName": "P. menstruus",
+    "wikiTitle": "Blue-headed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionus_menstruus_-La_Senda_Verde_Animal_Refuge_-Bolivia-8c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "142-white-crowned-parrot",
+    "commonName": "White-crowned parrot",
+    "scientificName": "P. senilis",
+    "wikiTitle": "White-crowned parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionus_senilis_-Macaw_Mountain_Bird_Park%2C_Honduras-8a-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "143-red-billed-parrot",
+    "commonName": "Red-billed parrot",
+    "scientificName": "P. sordidus",
+    "wikiTitle": "Red-billed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionus_sordidus_-two_captive-4a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "144-speckle-faced-parrot",
+    "commonName": "Speckle-faced parrot",
+    "scientificName": "P. tumultuosus",
+    "wikiTitle": "Plum-crowned parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pionus_tumultuosus_-La_Merced_Zoo-2a-2.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "145-short-tailed-parrot",
+    "commonName": "Short-tailed parrot",
+    "scientificName": "G. brachyurus",
+    "wikiTitle": "Short-tailed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Peruvian_Indians_with_Short-tailed_Parrot-6-4cp.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "146-yellow-faced-parrot",
+    "commonName": "Yellow-faced parrot",
+    "scientificName": "A. xanthops",
+    "wikiTitle": "Yellow-faced parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Papagaio-galego.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "147-blue-fronted-amazon",
+    "commonName": "Blue-fronted amazon",
+    "scientificName": "A. aestiva",
+    "wikiTitle": "Blue-fronted amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Turquoise-fronted_amazon_(Amazona_aestiva)_older_adult.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "148-black-billed-amazon",
+    "commonName": "Black-billed amazon",
+    "scientificName": "A. agilis",
+    "wikiTitle": "Black-billed amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_agilis_-Cockpit_Country%2C_Jamaica-8_(1).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "149-white-fronted-amazon",
+    "commonName": "White-fronted amazon",
+    "scientificName": "A. albifrons",
+    "wikiTitle": "White-fronted amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/White-fronted_amazon_(Amazona_albifrons)_1.jpeg",
+    "dimorphism": null
+  },
+  {
+    "id": "150-orange-winged-amazon",
+    "commonName": "Orange-winged amazon",
+    "scientificName": "A. amazonica",
+    "wikiTitle": "Orange-winged amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_amazonica_(1).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "151-red-necked-amazon",
+    "commonName": "Red-necked amazon",
+    "scientificName": "A. arausiaca",
+    "wikiTitle": "Red-necked amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_arausiaca_-Roseau_-Dominica_-aviary-6a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "152-yellow-naped-amazon",
+    "commonName": "Yellow-naped amazon",
+    "scientificName": "A. auropalliata",
+    "wikiTitle": "Yellow-naped amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_auropalliata_-Roatan_Tropical_Butterfly_Garden-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "153-red-lored-amazon",
+    "commonName": "Red-lored amazon",
+    "scientificName": "A. autumnalis",
+    "wikiTitle": "Red-lored amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_autumnalis_-Xcaret_theme_park_-Riviera_Maya-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "154-yellow-shouldered-amazon",
+    "commonName": "Yellow-shouldered amazon",
+    "scientificName": "A. barbadensis",
+    "wikiTitle": "Yellow-shouldered amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_barbadensis_-pet-4.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "155-red-tailed-amazon",
+    "commonName": "Red-tailed amazon",
+    "scientificName": "A. brasiliensis",
+    "wikiTitle": "Red-tailed amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_brasiliensis_001_1280.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "156-yellow-billed-amazon",
+    "commonName": "Yellow-billed amazon",
+    "scientificName": "A. collaria",
+    "wikiTitle": "Yellow-billed amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_collaria_-St._Andrew_-Jamaica-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "157-diademed-amazon",
+    "commonName": "Diademed amazon",
+    "scientificName": "A. diadema",
+    "wikiTitle": "Diademed amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_diadema_(26728838050).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "158-blue-cheeked-amazon",
+    "commonName": "Blue-cheeked amazon",
+    "scientificName": "A. dufresniana",
+    "wikiTitle": "Blue-cheeked amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_dufresniana_-two_captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "159-festive-amazon",
+    "commonName": "Festive amazon",
+    "scientificName": "A. festiva",
+    "wikiTitle": "Festive amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_festiva-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "160-lilac-crowned-amazon",
+    "commonName": "Lilac-crowned amazon",
+    "scientificName": "A. finschi",
+    "wikiTitle": "Lilac-crowned amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_finschi_-Xcaret_Eco_Park_-Mexico-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "161-mealy-amazon",
+    "commonName": "Mealy amazon",
+    "scientificName": "A. farinosa",
+    "wikiTitle": "Mealy amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Guatemalaamazone_Amazona_farinosa_guatemalae.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "162-saint-vincent-amazon",
+    "commonName": "Saint Vincent amazon",
+    "scientificName": "A. guildingii",
+    "wikiTitle": "Saint Vincent amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_guildingii_-Botanical_Gardens_-Kingstown_-Saint_Vincent-8a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "163-imperial-amazon",
+    "commonName": "Imperial amazon",
+    "scientificName": "A. imperialis",
+    "wikiTitle": "Imperial amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_imperialis_Mitchell.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "164-kawall-s-amazon",
+    "commonName": "Kawall's amazon",
+    "scientificName": "A. kawalli",
+    "wikiTitle": "Kawall's amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_kawalli_JJK'1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "165-cuban-amazon",
+    "commonName": "Cuban amazon",
+    "scientificName": "A. leucocephala",
+    "wikiTitle": "Cuban amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_leucocephala_-in_tree-4cp.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "166-lilacine-amazon",
+    "commonName": "Lilacine amazon",
+    "scientificName": "A. lilacina",
+    "wikiTitle": "Lilacine amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_autumnalis_lilacina_-Chester_Zoo_-a_pair-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "167-martinique-amazon",
+    "commonName": "Martinique amazon",
+    "scientificName": "A. martinicana",
+    "wikiTitle": "Martinique amazon",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_martinicana.png",
+    "dimorphism": null
+  },
+  {
+    "id": "168-scaly-naped-amazon",
+    "commonName": "Scaly-naped amazon",
+    "scientificName": "A. mercenarius",
+    "wikiTitle": "Scaly-naped amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_mercenaria_-Ecuador_-Andes-8-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "169-yellow-crowned-amazon",
+    "commonName": "Yellow-crowned amazon",
+    "scientificName": "A. ochrocephala",
+    "wikiTitle": "Yellow-crowned amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Yellow-crowned_Amazon_(Amazona_ochrocephala)_-Well_Place_Zoo-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "170-yellow-headed-amazon",
+    "commonName": "Yellow-headed amazon",
+    "scientificName": "A. oratrix",
+    "wikiTitle": "Yellow-headed amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_oratrix_-eating_in_tree-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "171-red-spectacled-amazon",
+    "commonName": "Red-spectacled amazon",
+    "scientificName": "A. pretrei",
+    "wikiTitle": "Red-spectacled amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_pretrei_-Brazil-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "172-red-browed-amazon",
+    "commonName": "Red-browed amazon",
+    "scientificName": "A. rhodocorytha",
+    "wikiTitle": "Red-browed amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_rhodocorytha_-RSCF-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "173-tucum-n-amazon",
+    "commonName": "Tucumán amazon",
+    "scientificName": "A. tucumana",
+    "wikiTitle": "Tucumán amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_tucumana_-Loro_Parque_-Spain-8a-4cr.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "174-hispaniolan-amazon",
+    "commonName": "Hispaniolan amazon",
+    "scientificName": "A. ventralis",
+    "wikiTitle": "Hispaniolan amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_ventralis_-two_captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "175-saint-lucia-amazon",
+    "commonName": "Saint Lucia amazon",
+    "scientificName": "A. versicolor",
+    "wikiTitle": "Saint Lucia amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_versicolor_-St_Lucia-5a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "176-vinaceous-breasted-amazon",
+    "commonName": "Vinaceous-breasted amazon",
+    "scientificName": "A. vinacea",
+    "wikiTitle": "Vinaceous-breasted amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_vinacea_-two_captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "177-guadeloupe-amazon",
+    "commonName": "Guadeloupe amazon",
+    "scientificName": "A. violacea",
+    "wikiTitle": "Guadeloupe amazon",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_violacea.png",
+    "dimorphism": null
+  },
+  {
+    "id": "178-red-crowned-amazon",
+    "commonName": "Red-crowned amazon",
+    "scientificName": "A. viridigenalis",
+    "wikiTitle": "Red-crowned amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Red_Crowned_Amazon.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "179-puerto-rican-amazon",
+    "commonName": "Puerto Rican amazon",
+    "scientificName": "A. vittata",
+    "wikiTitle": "Puerto Rican amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Puerto_Rican_parrot.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "180-yucat-n-amazon",
+    "commonName": "Yucatán amazon",
+    "scientificName": "A. xantholora",
+    "wikiTitle": "Yucatán amazon",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Amazona_xantholora_-Xcaret_Eco_Park_-Mexico-8b.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "181-rusty-faced-parrot",
+    "commonName": "Rusty-faced parrot",
+    "scientificName": "H. amazonina",
+    "wikiTitle": "Rusty-faced parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Hapalopsittaca_amazonina_1849.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "182-black-winged-parrot",
+    "commonName": "Black-winged parrot",
+    "scientificName": "H. melanotis",
+    "wikiTitle": "Black-winged parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Hapalopsittaca_melanotis_1849.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "183-red-faced-parrot",
+    "commonName": "Red-faced parrot",
+    "scientificName": "H. pyrrhops",
+    "wikiTitle": "Red-faced parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/PionopsittacusPyrrhopsKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "184-yellow-chevroned-parakeet",
+    "commonName": "Yellow-chevroned parakeet",
+    "scientificName": "B. chiriri",
+    "wikiTitle": "Yellow-chevroned parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Yellow-chevroned_parakeet_1_BH_Zoo.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "185-golden-winged-parakeet",
+    "commonName": "Golden-winged parakeet",
+    "scientificName": "B. chrysoptera",
+    "wikiTitle": "Golden-winged parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Golden-winged_parakeet_(Brotogeris_chrysoptera).JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "186-cobalt-winged-parakeet",
+    "commonName": "Cobalt-winged parakeet",
+    "scientificName": "B. cyanoptera",
+    "wikiTitle": "Cobalt-winged parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cobalt-winged_Parakeets_(Brotogeris_cyanoptera).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "187-orange-chinned-parakeet",
+    "commonName": "Orange-chinned parakeet",
+    "scientificName": "B. jugularis",
+    "wikiTitle": "Orange-chinned parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Brotogeris_jugularis_-UCV_-Maracay_-Venezuela-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "188-grey-cheeked-parakeet",
+    "commonName": "Grey-cheeked parakeet",
+    "scientificName": "B. pyrrhoptera",
+    "wikiTitle": "Grey-cheeked parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Grey-cheeked_Parakeet_(Brotogeris_pyrrhoptera)_captivity.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "189-tui-parakeet",
+    "commonName": "Tui parakeet",
+    "scientificName": "B. sanctithomae",
+    "wikiTitle": "Tui parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Brotogeris_sanctithomae_-Uarini%2C_Amazonas%2C_Brasil-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "190-plain-parakeet",
+    "commonName": "Plain parakeet",
+    "scientificName": "B. tirica",
+    "wikiTitle": "Plain parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Brotogeris_tirica_-Morretes%2C_Parana%2C_Brazil-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "191-white-winged-parakeet",
+    "commonName": "White-winged parakeet",
+    "scientificName": "B. versicolurus",
+    "wikiTitle": "White-winged parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Brotogeris_versicolurus_-Leticia_-Colombia-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "192-cliff-parakeet",
+    "commonName": "Cliff parakeet",
+    "scientificName": "M. luchsi",
+    "wikiTitle": "Cliff parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/MyopsittacusLuchsiKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "193-monk-parakeet",
+    "commonName": "Monk parakeet",
+    "scientificName": "M. monachus",
+    "wikiTitle": "Monk parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Myiopsitta_monachus_-Punta_del_Diablo%2C_Rocha%2C_Uruguay-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "194-western-rosella",
+    "commonName": "Western rosella",
+    "scientificName": "P. icterotis",
+    "wikiTitle": "Western rosella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Platycercus_icterotis1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "195-crimson-rosella",
+    "commonName": "Crimson rosella",
+    "scientificName": "P. elegans",
+    "wikiTitle": "Crimson rosella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Platycercus_elegans_Wilsons_Prom.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "196-green-rosella",
+    "commonName": "Green rosella",
+    "scientificName": "P. caledonicus",
+    "wikiTitle": "Green rosella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Platycercus_caledonicus_-Tasmania_-side-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "197-pale-headed-rosella",
+    "commonName": "Pale-headed rosella",
+    "scientificName": "P. adscitus",
+    "wikiTitle": "Pale-headed rosella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pale-headed_Rosella_(Platycercus_adscitus)2-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "198-eastern-rosella",
+    "commonName": "Eastern rosella",
+    "scientificName": "P. eximius",
+    "wikiTitle": "Eastern rosella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Platycercus_eximius_diemenensis_female.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "199-northern-rosella",
+    "commonName": "Northern rosella",
+    "scientificName": "P. venustus",
+    "wikiTitle": "Northern rosella",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Platycercus_venustus_-two_captive-6a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "200-masked-shining-parrot",
+    "commonName": "Masked shining parrot",
+    "scientificName": "P. personata",
+    "wikiTitle": "Masked shining parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Stavenn_Prosopeia_personata.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "201-maroon-shining-parrot",
+    "commonName": "Maroon shining parrot",
+    "scientificName": "P. tabuensis",
+    "wikiTitle": "Maroon shining parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Red_Shining-parrot.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "202-crimson-shining-parrot",
+    "commonName": "Crimson shining parrot",
+    "scientificName": "P. splendens",
+    "wikiTitle": "Crimson shining parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Naturalis_Biodiversity_Center_-_ZMA.AVES.184_-_Prosopeia_splendens_Peale%2C_1848_-_Psittacidae_-_skin_specimen.jpeg",
+    "dimorphism": null
+  },
+  {
+    "id": "203-horned-parakeet",
+    "commonName": "Horned parakeet",
+    "scientificName": "E. cornutus",
+    "wikiTitle": "Horned parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Horned_Parakeet_3487_Copyright_TP_ONG.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "204-ouvea-parakeet",
+    "commonName": "Ouvea parakeet",
+    "scientificName": "E. uvaeensis",
+    "wikiTitle": "Ouvea parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Uvea_Parakeet.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "205-yellow-crowned-parakeet",
+    "commonName": "Yellow-crowned parakeet",
+    "scientificName": "C. auriceps",
+    "wikiTitle": "Yellow-crowned parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Kakaariki.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "206-malherbe-s-parakeet",
+    "commonName": "Malherbe's parakeet",
+    "scientificName": "C. malherbi",
+    "wikiTitle": "Malherbe's parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cyanoramphus_malherbi.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "207-red-crowned-parakeet",
+    "commonName": "Red-crowned parakeet",
+    "scientificName": "C. novaezelandiae",
+    "wikiTitle": "Red-crowned parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Kakariki_perched_on_a_branch%2C_looking.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "208-antipodes-parakeet",
+    "commonName": "Antipodes parakeet",
+    "scientificName": "C. unicolor",
+    "wikiTitle": "Antipodes parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Antipodes_Island_parakeet_standing_on_a_branch.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "209-black-fronted-parakeet",
+    "commonName": "Black-fronted parakeet",
+    "scientificName": "C. zealandicus",
+    "wikiTitle": "Black-fronted parakeet",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cyanoramphus_zealandicus_1849.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "210-australian-ringneck",
+    "commonName": "Australian ringneck",
+    "scientificName": "B. zonarius",
+    "wikiTitle": "Australian ringneck",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Port_Lincoln_parrot_at_Augusta_profile.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "211-red-capped-parrot",
+    "commonName": "Red-capped parrot",
+    "scientificName": "P. spurius",
+    "wikiTitle": "Red-capped parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Red-Capped-Parrot_0004_flat_web.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "212-swift-parrot",
+    "commonName": "Swift parrot",
+    "scientificName": "L. discolor",
+    "wikiTitle": "Swift parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lathamus_discolor_-Antwerp_Zoo-8-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "213-eastern-bluebonnet",
+    "commonName": "Eastern bluebonnet",
+    "scientificName": "N. haematogaster",
+    "wikiTitle": "Eastern bluebonnet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Bluebonnet-back.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "214-red-rumped-parrot",
+    "commonName": "Red-rumped parrot",
+    "scientificName": "P. haematonotus",
+    "wikiTitle": "Red-rumped parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psephotus_haematonotus_-Eastern_Creek%2C_New_South_Wales%2C_Australia_-pair-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "215-mulga-parrot",
+    "commonName": "Mulga parrot",
+    "scientificName": "P. varius",
+    "wikiTitle": "Mulga parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Mulpa_0998w.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "216-hooded-parrot",
+    "commonName": "Hooded parrot",
+    "scientificName": "P. dissimilis",
+    "wikiTitle": "Hooded parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psephotus_dissimilis_-Australia_-pair-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "217-golden-shouldered-parrot",
+    "commonName": "Golden-shouldered parrot",
+    "scientificName": "P. chrysopterygius",
+    "wikiTitle": "Golden-shouldered parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Captive_Golden_shouldered_parrot_pair..jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "218-paradise-parrot",
+    "commonName": "Paradise parrot",
+    "scientificName": "P. pulcherrimus",
+    "wikiTitle": "Paradise parrot",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psephotus_pulcherrimus.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "219-blue-winged-parrot",
+    "commonName": "Blue-winged parrot",
+    "scientificName": "N. chrysostoma",
+    "wikiTitle": "Blue-winged parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Neophema_chrysostoma_mortimer_2.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "220-elegant-parrot",
+    "commonName": "Elegant parrot",
+    "scientificName": "N. elegans",
+    "wikiTitle": "Elegant parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Neophema_elegans_qtl1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "221-rock-parrot",
+    "commonName": "Rock parrot",
+    "scientificName": "N. petrophila",
+    "wikiTitle": "Rock parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Rock_Parrot_Cape_Leeuwin_2_email.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "222-orange-bellied-parrot",
+    "commonName": "Orange-bellied parrot",
+    "scientificName": "N. chrysogaster",
+    "wikiTitle": "Orange-bellied parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Neophema_chrysogaster_male_-_Melaleuca.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "223-turquoise-parrot",
+    "commonName": "Turquoise parrot",
+    "scientificName": "N. pulchella",
+    "wikiTitle": "Turquoise parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Neophema_pulchella_-Rainbow_Jungle_-Australia-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "224-scarlet-chested-parrot",
+    "commonName": "Scarlet-chested parrot",
+    "scientificName": "N. splendida",
+    "wikiTitle": "Scarlet-chested parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Scarlet_Chested_Parakeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "225-bourke-s-parrot",
+    "commonName": "Bourke's parrot",
+    "scientificName": "N. bourkii",
+    "wikiTitle": "Bourke's parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Bourke's_Parrot_-_Neopsephotus_bourkii.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "226-night-parrot",
+    "commonName": "Night parrot",
+    "scientificName": "P. occidentalis",
+    "wikiTitle": "Night parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pezoporus_occidentalis_Bird_illustration_by_Elizabeth_Gould_for_Birds_of_Australia%2C_digitally_enhanced_from_rawpixel's_own_facsimile_book666.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "227-ground-parrot",
+    "commonName": "Ground parrot",
+    "scientificName": "P. wallicus",
+    "wikiTitle": "Ground parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ground_Parrot_cooloolah.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "228-painted-tiger-parrot",
+    "commonName": "Painted tiger parrot",
+    "scientificName": "P. picta",
+    "wikiTitle": "Painted tiger parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/PsittacellaPictaKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "229-brehm-s-tiger-parrot",
+    "commonName": "Brehm's tiger parrot",
+    "scientificName": "P. brehmii",
+    "wikiTitle": "Brehm's tiger parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacella_brehmii.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "230-black-lory",
+    "commonName": "Black lory",
+    "scientificName": "C. atra",
+    "wikiTitle": "Black lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Black_lory_(Chalcopsitta_atra)%2C_Gembira_Loka_Zoo%2C_Yogyakarta_2015-03-15_03.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "231-brown-lory",
+    "commonName": "Brown lory",
+    "scientificName": "C. duivenbodei",
+    "wikiTitle": "Brown lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Brown_Lory_(Chalcopsitta_duivenbodei)-7.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "232-yellow-streaked-lory",
+    "commonName": "Yellow-streaked lory",
+    "scientificName": "C. scintillata",
+    "wikiTitle": "Yellow-streaked lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Chalcopsitta_sintillata_-Fuengirola_Zoo-8-1c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "233-black-winged-lory",
+    "commonName": "Black-winged lory",
+    "scientificName": "E. cyanogenia",
+    "wikiTitle": "Black-winged lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/BlackWingedLorikeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "234-violet-necked-lory",
+    "commonName": "Violet-necked lory",
+    "scientificName": "E. squamata",
+    "wikiTitle": "Violet-necked lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Violet_Necked_Lory.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "235-blue-streaked-lory",
+    "commonName": "Blue-streaked lory",
+    "scientificName": "E. reticulata",
+    "wikiTitle": "Blue-streaked lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eos_reticulata-20040821B.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "236-red-and-blue-lory",
+    "commonName": "Red-and-blue lory",
+    "scientificName": "E. histrio",
+    "wikiTitle": "Red-and-blue lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eos_histrio_talautensis_-Loro_Parque%2C_Tenerife%2C_Spain-8a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "237-red-lory",
+    "commonName": "Red lory",
+    "scientificName": "E. bornea",
+    "wikiTitle": "Red lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eos_bornea-20051118.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "238-blue-eared-lory",
+    "commonName": "Blue-eared lory",
+    "scientificName": "E. semilarvata",
+    "wikiTitle": "Blue-eared lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eos_semilarvata_-San_Diego_Zoo-5.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "239-dusky-lory",
+    "commonName": "Dusky lory",
+    "scientificName": "P. fuscata",
+    "wikiTitle": "Dusky lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Dusky_lory_(Pseudeos_fuscata)%2C_Gembira_Loka_Zoo%2C_Yogyakarta%2C_2015-03-15_03.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "240-cardinal-lory",
+    "commonName": "Cardinal lory",
+    "scientificName": "P. cardinalis",
+    "wikiTitle": "Cardinal lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Chalcopsitta_cardinalis_-Busch_Gardens%2C_Tampa_Bay%2C_USA_-upper_body-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "241-rainbow-lorikeet",
+    "commonName": "Rainbow lorikeet",
+    "scientificName": "T. moluccanus",
+    "wikiTitle": "Rainbow lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_haematodus_-Jurong_Bird_Park%2C_Singapore_-Dec2009.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "242-sunset-lorikeet",
+    "commonName": "Sunset lorikeet",
+    "scientificName": "T. forsteni",
+    "wikiTitle": "Sunset lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_forsteni_-Cincinnati_Zoo-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "243-leaf-lorikeet",
+    "commonName": "Leaf lorikeet",
+    "scientificName": "T. weberi",
+    "wikiTitle": "Leaf lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_haematodus_weberi_-New_Port_Aquarium-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "244-marigold-lorikeet",
+    "commonName": "Marigold lorikeet",
+    "scientificName": "T. capistratus",
+    "wikiTitle": "Marigold lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_(haematodus)_capistratus_-Denver_Zoo%2C_Colorado%2C_USA-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "245-coconut-lorikeet",
+    "commonName": "Coconut lorikeet",
+    "scientificName": "T. haematodus",
+    "wikiTitle": "Coconut lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Rainbow_lorikeet%2C_Trichoglossus_haematodus%2C_feeding_on_flowers_at_the_Royal_Botanical_Garden%2C_Sydney%2C_Australia_(16885309149).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "246-biak-lorikeet",
+    "commonName": "Biak lorikeet",
+    "scientificName": "T. rosenbergii",
+    "wikiTitle": "Biak lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_haematodus_rosenbergii_-Nashville_Zoo-6a-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "247-red-collared-lorikeet",
+    "commonName": "Red-collared lorikeet",
+    "scientificName": "T. rubritorquis",
+    "wikiTitle": "Red-collared lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_rubritorquis_-Cincinnati_Zoo%2C_Ohio%2C_USA-8a_(1).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "248-olive-headed-lorikeet",
+    "commonName": "Olive-headed lorikeet",
+    "scientificName": "T. euteles",
+    "wikiTitle": "Olive-headed lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Olive-headed_Lorikeet_(Trichoglossus_euteles)_-Pittsburgh_Zoo.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "249-pohnpei-lorikeet",
+    "commonName": "Pohnpei lorikeet",
+    "scientificName": "T. rubiginosus",
+    "wikiTitle": "Pohnpei lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pohnpei_Lorikeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "250-scaly-breasted-lorikeet",
+    "commonName": "Scaly-breasted lorikeet",
+    "scientificName": "T. chlorolepidotus",
+    "wikiTitle": "Scaly-breasted lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_chlorolepidotus_-Australia-8a-3c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "251-yellow-cheeked-lorikeet",
+    "commonName": "Yellow-cheeked lorikeet",
+    "scientificName": "S. meyeri",
+    "wikiTitle": "Yellow-cheeked lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_flavoviridis_-Loro_Parque-6a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "252-mindanao-lorikeet",
+    "commonName": "Mindanao lorikeet",
+    "scientificName": "S. johnstoniae",
+    "wikiTitle": "Mindanao lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_johnstoniae_-London_Zoo%2C_England-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "253-sula-lorikeet",
+    "commonName": "Sula lorikeet",
+    "scientificName": "S. flavoviridis",
+    "wikiTitle": "Sula lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_flavoviridis_qtl1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "254-ornate-lorikeet",
+    "commonName": "Ornate lorikeet",
+    "scientificName": "S. ornatus",
+    "wikiTitle": "Ornate lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Trichoglossus_ornatus_-Nahsville_Zoo-8a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "255-iris-lorikeet",
+    "commonName": "Iris lorikeet",
+    "scientificName": "S. iris",
+    "wikiTitle": "Iris lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psitteuteles_iris.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "256-varied-lorikeet",
+    "commonName": "Varied lorikeet",
+    "scientificName": "P. versicolor",
+    "wikiTitle": "Varied lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psitteuteles_versicolor_-Queensland-8-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "257-goldie-s-lorikeet",
+    "commonName": "Goldie's lorikeet",
+    "scientificName": "G. goldiei",
+    "wikiTitle": "Goldie's lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Goldies_Lorikeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "258-chattering-lory",
+    "commonName": "Chattering lory",
+    "scientificName": "L. garrulus",
+    "wikiTitle": "Chattering lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lorius_garrulus-20070107.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "259-purple-naped-lory",
+    "commonName": "Purple-naped lory",
+    "scientificName": "L. domicella",
+    "wikiTitle": "Purple-naped lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lorius_domicella_-Banda_Islands_-Indonesia_-upper_body-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "260-black-capped-lory",
+    "commonName": "Black-capped lory",
+    "scientificName": "L. lory",
+    "wikiTitle": "Black-capped lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lorius_lory-20051118.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "261-purple-bellied-lory",
+    "commonName": "Purple-bellied lory",
+    "scientificName": "L. hypoinochrous",
+    "wikiTitle": "Purple-bellied lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lorius_hypoinochrous_qtl1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "262-yellow-bibbed-lory",
+    "commonName": "Yellow-bibbed lory",
+    "scientificName": "L. chlorocercus",
+    "wikiTitle": "Yellow-bibbed lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lorius_chlorocercus-20040821.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "263-blue-crowned-lorikeet",
+    "commonName": "Blue-crowned lorikeet",
+    "scientificName": "V. australis",
+    "wikiTitle": "Blue-crowned lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Vini_australis_-London_Zoo%2C_England-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "264-kuhl-s-lorikeet",
+    "commonName": "Kuhl's lorikeet",
+    "scientificName": "V. kuhlii",
+    "wikiTitle": "Kuhl's lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Vini_kuhlii_-painting_by_Edward_Lear-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "265-stephen-s-lorikeet",
+    "commonName": "Stephen's lorikeet",
+    "scientificName": "V. stepheni",
+    "wikiTitle": "Stephen's lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/ViniStepheniGronvold.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "266-blue-lorikeet",
+    "commonName": "Blue lorikeet",
+    "scientificName": "V. peruviana",
+    "wikiTitle": "Blue lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lori_p%C3%A9ruviana.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "267-ultramarine-lorikeet",
+    "commonName": "Ultramarine lorikeet",
+    "scientificName": "V. ultramarina",
+    "wikiTitle": "Ultramarine lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Monographoflorie00miva_0206a_Vini_peruviana_-_Vini_ultramarina.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "268-collared-lory",
+    "commonName": "Collared lory",
+    "scientificName": "V. solitaria",
+    "wikiTitle": "Collared lory",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Phigys_solitarius_-San_Diego_Zoo%2C_California%2C_USA-8a_(1).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "269-new-caledonian-lorikeet",
+    "commonName": "New Caledonian lorikeet",
+    "scientificName": "V. diadema",
+    "wikiTitle": "New Caledonian lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Charmosyna_diadema.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "270-red-throated-lorikeet",
+    "commonName": "Red-throated lorikeet",
+    "scientificName": "V. amabilis",
+    "wikiTitle": "Red-throated lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Charmosyna_amabilis.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "271-purple-crowned-lorikeet",
+    "commonName": "Purple-crowned lorikeet",
+    "scientificName": "P. porphyrocephala",
+    "wikiTitle": "Purple-crowned lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Glossopsitta_porphyrocephala.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "272-little-lorikeet",
+    "commonName": "Little lorikeet",
+    "scientificName": "P. pusilla",
+    "wikiTitle": "Little lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Little_Lorikeet_kobble.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "273-musk-lorikeet",
+    "commonName": "Musk lorikeet",
+    "scientificName": "G. concinna",
+    "wikiTitle": "Musk lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Glossopsitta_concinna_-Kangaroo_Flat%2C_Bendigo%2C_Victoria%2C_Australia-8_(1).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "274-pygmy-lorikeet",
+    "commonName": "Pygmy lorikeet",
+    "scientificName": "C. wilhelminae",
+    "wikiTitle": "Pygmy lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/N309_w1150_(8006803741).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "275-red-fronted-lorikeet",
+    "commonName": "Red-fronted lorikeet",
+    "scientificName": "H. rubronotata",
+    "wikiTitle": "Red-fronted lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/N331_w1150_(8006809998).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "276-red-flanked-lorikeet",
+    "commonName": "Red-flanked lorikeet",
+    "scientificName": "H. placentis",
+    "wikiTitle": "Red-flanked lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Charmosyna_placentis_-Jurong_Bird_Park_-pair-6a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "277-fairy-lorikeet",
+    "commonName": "Fairy lorikeet",
+    "scientificName": "C. pulchella",
+    "wikiTitle": "Fairy lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/TrichoglossusPulchellusKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "278-duchess-lorikeet",
+    "commonName": "Duchess lorikeet",
+    "scientificName": "C. margarethae",
+    "wikiTitle": "Duchess lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/CharmosynaMargarethaeSmit.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "279-josephine-s-lorikeet",
+    "commonName": "Josephine's lorikeet",
+    "scientificName": "C. josefinae",
+    "wikiTitle": "Josephine's lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Charmosyna_josefinae.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "280-west-papuan-lorikeet",
+    "commonName": "West Papuan lorikeet",
+    "scientificName": "C. papou",
+    "wikiTitle": "West Papuan lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Papuan_Lorikeet.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "281-stella-s-lorikeet",
+    "commonName": "Stella's lorikeet",
+    "scientificName": "C. stellae",
+    "wikiTitle": "Stella's lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Charmosyna_papou_goliathina1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "282-plum-faced-lorikeet",
+    "commonName": "Plum-faced lorikeet",
+    "scientificName": "O. arfaki",
+    "wikiTitle": "Plum-faced lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Oreopsittacus_arfaki_(pair)_-captive-8a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "283-yellow-billed-lorikeet",
+    "commonName": "Yellow-billed lorikeet",
+    "scientificName": "N. musschenbroekii",
+    "wikiTitle": "Yellow-billed lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Neopsittacus_musschenbroekii_-two_captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "284-orange-billed-lorikeet",
+    "commonName": "Orange-billed lorikeet",
+    "scientificName": "N. pullicauda",
+    "wikiTitle": "Orange-billed lorikeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Neopsittacus_pullicauda.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "285-budgerigar",
+    "commonName": "Budgerigar",
+    "scientificName": "M. undulatus",
+    "wikiTitle": "Budgerigar",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Melopsittacus_undulatus_-Fort_Worth_Zoo-8a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "286-blue-fronted-fig-parrot",
+    "commonName": "Blue-fronted fig parrot",
+    "scientificName": "C. gulielmitertii",
+    "wikiTitle": "Blue-fronted fig parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cyclopsitta_gulielmitertii_qtl1.jpg",
+    "dimorphism": {
+      "male": "https://en.wikipedia.org/wiki/Special:FilePath/Cyclopsitta_gulielmitertii_qtl1.jpg",
+      "female": "https://en.wikipedia.org/wiki/Special:FilePath/Cyclopsitta_gulielmitertii_qtl2.jpg"
+    }
+  },
+  {
+    "id": "287-double-eyed-fig-parrot",
+    "commonName": "Double-eyed fig parrot",
+    "scientificName": "C. diophthalma",
+    "wikiTitle": "Double-eyed fig parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cyclopsitta_diophthalma_-Birdworld_Kuranda%2C_Queensland%2C_Australia_-male-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "288-large-fig-parrot",
+    "commonName": "Large fig parrot",
+    "scientificName": "P. desmarestii",
+    "wikiTitle": "Large fig parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Buntbrust-Feigenpapagei_Psittaculirostris_desmarestrii_090501_We_228.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "289-edwards-s-fig-parrot",
+    "commonName": "Edwards's fig parrot",
+    "scientificName": "P. edwardsii",
+    "wikiTitle": "Edwards's fig parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittaculirostris_edwardsii.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "290-rosy-faced-lovebird",
+    "commonName": "Rosy-faced lovebird",
+    "scientificName": "A. roseicollis",
+    "wikiTitle": "Rosy-faced lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Agapornis_roseicollis_-Namibia-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "291-yellow-collared-lovebird",
+    "commonName": "Yellow-collared lovebird",
+    "scientificName": "A. personatus",
+    "wikiTitle": "Yellow-collared lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Agapornis_personatus_-Serengeti%2C_Tanzania-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "292-fischer-s-lovebird",
+    "commonName": "Fischer's lovebird",
+    "scientificName": "A. fischeri",
+    "wikiTitle": "Fischer's lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Agapornis_fischeri_-Ueno_Zoo%2C_Japan_-three-8a-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "293-lilian-s-lovebird",
+    "commonName": "Lilian's lovebird",
+    "scientificName": "A. lilianae",
+    "wikiTitle": "Lilian's lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Agapornis_lilianae_(Zambia).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "294-black-cheeked-lovebird",
+    "commonName": "Black-cheeked lovebird",
+    "scientificName": "A. nigrigenis",
+    "wikiTitle": "Black-cheeked lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Agapornis_nigrigenis_-London_Zoo-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "295-grey-headed-lovebird",
+    "commonName": "Grey-headed lovebird",
+    "scientificName": "A. canus",
+    "wikiTitle": "Grey-headed lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Grey-headed_Lovebird%2C_Ankarafantsika%2C_Madagascar.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "296-black-winged-lovebird",
+    "commonName": "Black-winged lovebird",
+    "scientificName": "A. taranta",
+    "wikiTitle": "Black-winged lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/2009-0803-AgapTara-Ethiopia-BahirDar-016.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "297-red-headed-lovebird",
+    "commonName": "Red-headed lovebird",
+    "scientificName": "A. pullarius",
+    "wikiTitle": "Red-headed lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Agapornis_pullarius.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "298-black-collared-lovebird",
+    "commonName": "Black-collared lovebird",
+    "scientificName": "A. swindernianus",
+    "wikiTitle": "Black-collared lovebird",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Stavenn_Agapornis_swindernianus_00.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "299-moluccan-hanging-parrot",
+    "commonName": "Moluccan hanging parrot",
+    "scientificName": "L. amabilis",
+    "wikiTitle": "Moluccan hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusAmabilisKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "300-orange-fronted-hanging-parrot",
+    "commonName": "Orange-fronted hanging parrot",
+    "scientificName": "L. aurantiifrons",
+    "wikiTitle": "Orange-fronted hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_aurantiifrons_Smit.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "301-sri-lanka-hanging-parrot",
+    "commonName": "Sri Lanka hanging parrot",
+    "scientificName": "L. beryllinus",
+    "wikiTitle": "Sri Lanka hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Thimindu_2010_03_06_Sinharaja_Sri_Lanka_Hangling_Parrot_1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "302-sangihe-hanging-parrot",
+    "commonName": "Sangihe hanging parrot",
+    "scientificName": "L. catamene",
+    "wikiTitle": "Sangihe hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusCatameneKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "303-pygmy-hanging-parrot",
+    "commonName": "Pygmy hanging parrot",
+    "scientificName": "L. exilis",
+    "wikiTitle": "Pygmy hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusExilisKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "304-blue-crowned-hanging-parrot",
+    "commonName": "Blue-crowned hanging parrot",
+    "scientificName": "L. galgulus",
+    "wikiTitle": "Blue-crowned hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_galgulus_(male)_-Singapore-8.jpg",
+    "dimorphism": {
+      "male": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_galgulus_(male)_-Singapore-8.jpg",
+      "female": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_galgulus_-Tanglin_Halt%2C_Singapore_-female-8_(2).jpg"
+    }
+  },
+  {
+    "id": "305-sula-hanging-parrot",
+    "commonName": "Sula hanging parrot",
+    "scientificName": "L. sclateri",
+    "wikiTitle": "Sula hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusSclateriWolf.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "306-great-hanging-parrot",
+    "commonName": "Great hanging parrot",
+    "scientificName": "L. stigmatus",
+    "wikiTitle": "Great hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_stigmatus_-Indonesia-4.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "307-bismarck-hanging-parrot",
+    "commonName": "Bismarck hanging parrot",
+    "scientificName": "L. tener",
+    "wikiTitle": "Bismarck hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_tener_Smit.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "308-philippine-hanging-parrot",
+    "commonName": "Philippine hanging parrot",
+    "scientificName": "L. philippensis",
+    "wikiTitle": "Philippine hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusIbis1872.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "309-black-billed-hanging-parrot",
+    "commonName": "Black-billed hanging parrot",
+    "scientificName": "L. bonapartei",
+    "wikiTitle": "Black-billed hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusBonaparteiKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "310-camiguin-hanging-parrot",
+    "commonName": "Camiguin hanging parrot",
+    "scientificName": "L. camiguinensis",
+    "wikiTitle": "Camiguin hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Ill_004_Loriculus_camiguinensis.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "311-yellow-throated-hanging-parrot",
+    "commonName": "Yellow-throated hanging parrot",
+    "scientificName": "L. pusillus",
+    "wikiTitle": "Yellow-throated hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_pusillus_-Java_-Indonesia-6-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "312-vernal-hanging-parrot",
+    "commonName": "Vernal hanging parrot",
+    "scientificName": "L. vernalis",
+    "wikiTitle": "Vernal hanging parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_vernalis_-Ganeshgudi%2C_Karnataka%2C_India_-male-8-1c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "313-guaiabero",
+    "commonName": "Guaiabero",
+    "scientificName": "B. lunulatus",
+    "wikiTitle": "Guaiabero",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Guaiabero.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "314-moluccan-king-parrot",
+    "commonName": "Moluccan king parrot",
+    "scientificName": "A. amboinensis",
+    "wikiTitle": "Moluccan king parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Alisterus_amboinensis_-Brevard_Zoo-8b-4c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "315-australian-king-parrot",
+    "commonName": "Australian king parrot",
+    "scientificName": "A. scapularis",
+    "wikiTitle": "Australian king parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/King_Parrot_in_South-East_Queensland.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "316-papuan-king-parrot",
+    "commonName": "Papuan king parrot",
+    "scientificName": "A. chloropterus",
+    "wikiTitle": "Papuan king parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Alisterus_chloropterus_-Jurong_Bird_Park_-male-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "317-red-winged-parrot",
+    "commonName": "Red-winged parrot",
+    "scientificName": "A. erythropterus",
+    "wikiTitle": "Red-winged parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Aprosmictus_erythropterus_-Australia_-pair-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "318-superb-parrot",
+    "commonName": "Superb parrot",
+    "scientificName": "P. swainsonii",
+    "wikiTitle": "Superb parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Polytelis_swainsonii_-_Canberra.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "319-regent-parrot",
+    "commonName": "Regent parrot",
+    "scientificName": "P. anthopeplus",
+    "wikiTitle": "Regent parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Polytelis_anthopeplus_-Wyperfeld_National_Park_-Australia-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "320-princess-parrot",
+    "commonName": "Princess parrot",
+    "scientificName": "P. alexandrae",
+    "wikiTitle": "Princess parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Polytelis_alexandrae_03.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "321-montane-racket-tail",
+    "commonName": "Montane racket-tail",
+    "scientificName": "P. montanus",
+    "wikiTitle": "Montane racket-tail",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Prioniturus_montanus_1984_stamp_of_the_Philippines.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "322-blue-headed-racket-tail",
+    "commonName": "Blue-headed racket-tail",
+    "scientificName": "P. platenae",
+    "wikiTitle": "Blue-headed racket-tail",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Blue-headed_Racquet-tail.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "323-blue-crowned-racket-tail",
+    "commonName": "Blue-crowned racket-tail",
+    "scientificName": "P. discurus",
+    "wikiTitle": "Blue-crowned racket-tail",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Prioniturus_discurus.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "324-blue-winged-racket-tail",
+    "commonName": "Blue-winged racket-tail",
+    "scientificName": "P. verticalis",
+    "wikiTitle": "Blue-winged racket-tail",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/PrioniturusVerticalisKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "325-yellow-breasted-racket-tail",
+    "commonName": "Yellow-breasted racket-tail",
+    "scientificName": "P. flavicans",
+    "wikiTitle": "Yellow-breasted racket-tail",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Prioniturus_flavicans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "326-golden-mantled-racket-tail",
+    "commonName": "Golden-mantled racket-tail",
+    "scientificName": "P. platurus",
+    "wikiTitle": "Golden-mantled racket-tail",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Prioniturus_platurus.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "327-buru-racket-tail",
+    "commonName": "Buru racket-tail",
+    "scientificName": "P. mada",
+    "wikiTitle": "Buru racket-tail",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Prioniturus_mada_qtl1.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "328-moluccan-eclectus",
+    "commonName": "Moluccan eclectus",
+    "scientificName": "E. roratus",
+    "wikiTitle": "Moluccan eclectus",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eclectus_roratus-20030511.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "329-oceanic-eclectus",
+    "commonName": "Oceanic eclectus",
+    "scientificName": "E. infectus",
+    "wikiTitle": "Oceanic eclectus",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Eclectus_infectus-MalaspinaExpedition1793-Yellow.png",
+    "dimorphism": null
+  },
+  {
+    "id": "330-red-cheeked-parrot",
+    "commonName": "Red-cheeked parrot",
+    "scientificName": "G. geoffroyi",
+    "wikiTitle": "Red-cheeked parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Geoffroyus_geoffroyi_-Papua_New_Guinea-6_CROP.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "331-great-billed-parrot",
+    "commonName": "Great-billed parrot",
+    "scientificName": "T. megalorynchos",
+    "wikiTitle": "Great-billed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Tanygnathus_megalorynchos_-captivity-8c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "332-blue-naped-parrot",
+    "commonName": "Blue-naped parrot",
+    "scientificName": "T. lucionensis",
+    "wikiTitle": "Blue-naped parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Tanygnathus_lucionensis_qtl2.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "333-blue-backed-parrot",
+    "commonName": "Blue-backed parrot",
+    "scientificName": "T. sumatranus",
+    "wikiTitle": "Blue-backed parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Tanygnathus_sumatranus_-adult_male-8-1c.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "334-blue-rumped-parrot",
+    "commonName": "Blue-rumped parrot",
+    "scientificName": "P. cyanurus",
+    "wikiTitle": "Blue-rumped parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Blue-rumped_Parrot_Psittinus_cyanurus_(6970039210).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "335-newton-s-parakeet",
+    "commonName": "Newton's parakeet",
+    "scientificName": "P. exsul",
+    "wikiTitle": "Newton's parakeet",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula_exsul.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "336-echo-parakeet",
+    "commonName": "Echo parakeet",
+    "scientificName": "P. eques",
+    "wikiTitle": "Echo parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Echo_parakeet_(Psittacula_eques_echo)_-at_Durrell_Trust.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "337-rose-ringed-parakeet",
+    "commonName": "Rose-ringed parakeet",
+    "scientificName": "P. krameri",
+    "wikiTitle": "Rose-ringed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Rose-ringed_Parakeet_eating_leaves.JPG",
+    "dimorphism": null
+  },
+  {
+    "id": "338-alexandrine-parakeet",
+    "commonName": "Alexandrine parakeet",
+    "scientificName": "P. eupatria",
+    "wikiTitle": "Alexandrine parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Alexandrine_Parakeet_at_Saltlake_Kolkata%2C_West_Bengal%2C_INDIA.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "339-seychelles-parakeet",
+    "commonName": "Seychelles parakeet",
+    "scientificName": "P. wardi",
+    "wikiTitle": "Seychelles parakeet",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula.wardi.jgk.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "340-plum-headed-parakeet",
+    "commonName": "Plum-headed parakeet",
+    "scientificName": "P. cyanocephala",
+    "wikiTitle": "Plum-headed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pair_of_Plum-headed_parakeet_(Psittacula_cyanocephala)_Photograph_By_Shantanu_Kuveskar.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "341-blossom-headed-parakeet",
+    "commonName": "Blossom-headed parakeet",
+    "scientificName": "P. roseata",
+    "wikiTitle": "Blossom-headed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/BlossomHeadedParakeetGould.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "342-slaty-headed-parakeet",
+    "commonName": "Slaty-headed parakeet",
+    "scientificName": "P. himalayana",
+    "wikiTitle": "Slaty-headed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Slaty-headed_Parakeet_(Psittacula_himalayana)_(25819352801).jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "343-grey-headed-parakeet",
+    "commonName": "Grey-headed parakeet",
+    "scientificName": "P. finschii",
+    "wikiTitle": "Grey-headed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/PalaeornisFinschiKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "344-blue-winged-parakeet",
+    "commonName": "Blue-winged parakeet",
+    "scientificName": "P. columboides",
+    "wikiTitle": "Blue-winged parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/2005-malabar-parkeet-p.jpg",
+    "dimorphism": {
+      "male": "https://en.wikipedia.org/wiki/Special:FilePath/2005-malabar-parkeet-p.jpg",
+      "female": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula_columboides_(female)_-Kerala_-India-8.jpg"
+    }
+  },
+  {
+    "id": "345-layard-s-parakeet",
+    "commonName": "Layard's parakeet",
+    "scientificName": "P. calthrapae",
+    "wikiTitle": "Layard's parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula_calthropae_-Sri_Lanka_-eating_fruit-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "346-lord-derby-s-parakeet",
+    "commonName": "Lord Derby's parakeet",
+    "scientificName": "P. derbiana",
+    "wikiTitle": "Lord Derby's parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula_derbiana_(pair)_-captive-8a.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "347-red-breasted-parakeet",
+    "commonName": "Red-breasted parakeet",
+    "scientificName": "P. alexandri",
+    "wikiTitle": "Red-breasted parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula_alexandri_-Changi_Village-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "348-nicobar-parakeet",
+    "commonName": "Nicobar parakeet",
+    "scientificName": "P. caniceps",
+    "wikiTitle": "Nicobar parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/PalaeornisCanicepsGould.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "349-long-tailed-parakeet",
+    "commonName": "Long-tailed parakeet",
+    "scientificName": "P. longicauda",
+    "wikiTitle": "Long-tailed parakeet",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula_longicauda_(feeding)_-Queenstown_-Singapore-6.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "350-mascarene-grey-parakeet",
+    "commonName": "Mascarene grey parakeet",
+    "scientificName": "P. bensoni",
+    "wikiTitle": "Mascarene grey parakeet",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittacula_bensoni.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "351-broad-billed-parrot",
+    "commonName": "Broad-billed parrot",
+    "scientificName": "L. mauritianus",
+    "wikiTitle": "Broad-billed parrot",
+    "extinct": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lophopsittacus.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "352-buff-faced-pygmy-parrot",
+    "commonName": "Buff-faced pygmy parrot",
+    "scientificName": "M. pusio",
+    "wikiTitle": "Buff-faced pygmy parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/NasiternaPusioWolf.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "353-yellow-capped-pygmy-parrot",
+    "commonName": "Yellow-capped pygmy parrot",
+    "scientificName": "M. keiensis",
+    "wikiTitle": "Yellow-capped pygmy parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/NasiternaPygmaeaFKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "354-geelvink-pygmy-parrot",
+    "commonName": "Geelvink pygmy parrot",
+    "scientificName": "M. geelvinkiana",
+    "wikiTitle": "Geelvink pygmy parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/NasiternaGeelvinkianaKeulemans.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "355-greater-vasa-parrot",
+    "commonName": "Greater vasa parrot",
+    "scientificName": "C. vasa",
+    "wikiTitle": "Greater vasa parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Coracopsis_vasa_-Madagascar-8.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "356-lesser-vasa-parrot",
+    "commonName": "Lesser vasa parrot",
+    "scientificName": "C. nigra",
+    "wikiTitle": "Lesser vasa parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Lesser_vasa_parrot_(Coracopsis_nigra)_Anjajavy.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "357-seychelles-black-parrot",
+    "commonName": "Seychelles black parrot",
+    "scientificName": "C. barklyi",
+    "wikiTitle": "Seychelles black parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/BlackParrot2016.jpg",
+    "dimorphism": null
+  },
+  {
+    "id": "358-pesquet-s-parrot",
+    "commonName": "Pesquet's parrot",
+    "scientificName": "P. fulgidus",
+    "wikiTitle": "Pesquet's parrot",
+    "extinct": false,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Psittrichas_fulgidus_-Miami_Zoo%2C_USA-8-2c.jpg",
+    "dimorphism": null
+  }
+]
