@@ -25,7 +25,7 @@
     "scientificName": "N. productus",
     "wikiTitle": "Norfolk kākā",
     "extinct": true,
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Naturalis_Biodiversity_Center_-_RMNH.AVES.110061_-_Nestor_productus_-_Psittacidae_-_bird_skin_specimen.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Naturalis_Biodiversity_Center_-_RMNH.AVES.110061_-_Nestor_productus_-_Psittacidae_-_bird_skin_specimen.jpeg",
     "isIllustration": false,
     "dimorphism": null
   },
@@ -561,7 +561,7 @@
     "scientificName": "P. melanura",
     "wikiTitle": "Maroon-tailed parakeet",
     "extinct": false,
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Maroon-tailed_Parakeet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Maroon-tailed_Parakeet.jpg",
     "isIllustration": false,
     "dimorphism": null
   },
@@ -1241,7 +1241,7 @@
     "scientificName": "B. orbygnesius",
     "wikiTitle": "Andean parakeet",
     "extinct": false,
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bolborhynchus_orbygnesius.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Bolborhynchus_orbygnesius.jpg",
     "isIllustration": false,
     "dimorphism": null
   },
@@ -1831,7 +1831,7 @@
     "scientificName": "H. pyrrhops",
     "wikiTitle": "Red-faced parrot",
     "extinct": false,
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Red-faced_parrot_%28Hapalopsittaca_pyrrhops%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Red-faced_parrot_(Hapalopsittaca_pyrrhops)_(cropped).jpg",
     "isIllustration": false,
     "dimorphism": null
   },
@@ -1921,7 +1921,7 @@
     "scientificName": "M. luchsi",
     "wikiTitle": "Cliff parakeet",
     "extinct": false,
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Cliff_Parakeet_Myiopsitta_luchsi%2C_Anamal%2C_Santa_Cruz%2C_Bolivia_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Cliff_Parakeet_Myiopsitta_luchsi%2C_Anamal%2C_Santa_Cruz%2C_Bolivia_1.jpg",
     "isIllustration": false,
     "dimorphism": null
   },
@@ -2641,8 +2641,8 @@
     "scientificName": "V. kuhlii",
     "wikiTitle": "Kuhl's lorikeet",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Vini_kuhlii_-painting_by_Edward_Lear-4c.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Vini_kuhlii_109930405.jpg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -2651,8 +2651,8 @@
     "scientificName": "V. stepheni",
     "wikiTitle": "Stephen's lorikeet",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/ViniStepheniGronvold.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Vini_stepheni_395655071.jpg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -2994,8 +2994,8 @@
     "scientificName": "L. amabilis",
     "wikiTitle": "Moluccan hanging parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusAmabilisKeulemans.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_amabilis_-_Jason_Alexander_-_526334010.jpeg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3004,8 +3004,8 @@
     "scientificName": "L. aurantiifrons",
     "wikiTitle": "Orange-fronted hanging parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_aurantiifrons_Smit.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_aurantiifrons_-_Redbeardbirder_-_672059739.jpeg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3024,8 +3024,8 @@
     "scientificName": "L. catamene",
     "wikiTitle": "Sangihe hanging parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusCatameneKeulemans.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_catamene_Female_-_September_2024_(cropped).png",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3034,8 +3034,8 @@
     "scientificName": "L. exilis",
     "wikiTitle": "Pygmy hanging parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusExilisKeulemans.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Pygmy_hanging_parrot.jpg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3057,8 +3057,8 @@
     "scientificName": "L. sclateri",
     "wikiTitle": "Sula hanging parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusSclateriWolf.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Loriculus_sclateri_-_James_Eaton_-_583509304_(cropped).jpeg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3097,8 +3097,8 @@
     "scientificName": "L. bonapartei",
     "wikiTitle": "Black-billed hanging parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/LoriculusBonaparteiKeulemans.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Black-billed_Hanging_Parrot.jpg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3417,8 +3417,8 @@
     "scientificName": "P. roseata",
     "wikiTitle": "Blossom-headed parakeet",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/BlossomHeadedParakeetGould.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Blossom-headed_Parakeet%2C_Satchari_NP%2C_Bangladesh.jpg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3437,7 +3437,7 @@
     "scientificName": "P. finschii",
     "wikiTitle": "Grey-headed parakeet",
     "extinct": false,
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Grey-headed_parakeet_%2834365126130%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Grey-headed_parakeet_(34365126130).jpg",
     "isIllustration": false,
     "dimorphism": null
   },
@@ -3530,8 +3530,8 @@
     "scientificName": "M. pusio",
     "wikiTitle": "Buff-faced pygmy parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/NasiternaPusioWolf.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Micropsitta_pusio_-_ryanphillipswa_-_411888574.jpeg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {
@@ -3550,8 +3550,8 @@
     "scientificName": "M. geelvinkiana",
     "wikiTitle": "Geelvink pygmy parrot",
     "extinct": false,
-    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/NasiternaGeelvinkianaKeulemans.jpg",
-    "isIllustration": true,
+    "imageUrl": "https://en.wikipedia.org/wiki/Special:FilePath/Micropsitta_geelvinkiana_-_khalebyordan_-_615435447.jpeg",
+    "isIllustration": false,
     "dimorphism": null
   },
   {

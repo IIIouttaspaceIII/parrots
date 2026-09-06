@@ -207,23 +207,51 @@ function parseRows(wikitext) {
   return species;
 }
 
-/** Look up a species' own Wikipedia article and return its lead image, if any. */
-async function fetchLeadPhoto(title) {
-  const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(
+/** Fetch the raw wikitext of a single Wikipedia article. */
+async function fetchArticleWikitext(title) {
+  const url = `https://en.wikipedia.org/w/index.php?title=${encodeURIComponent(
     title.replace(/ /g, "_")
-  )}`;
+  )}&action=raw`;
   try {
     const res = await fetch(url, {
       headers: { "User-Agent": "parrot-guessing-game-data-fetch/1.0" },
     });
     if (!res.ok) return null;
-    const data = await res.json();
-    const source = data.originalimage?.source || data.thumbnail?.source;
-    if (!source || isIllustrationFile(source)) return null;
-    return source;
+    return await res.text();
   } catch {
     return null;
   }
+}
+
+/**
+ * Pull |image=, |image2=, |image3=, ... file names out of an infobox, in
+ * order. Articles often lead with a historical illustration (e.g. as the
+ * "female" depiction) and put a real photo in image2/image3, so the REST
+ * API's lead-image summary alone isn't enough — we need every infobox image.
+ */
+function extractInfoboxImages(wikitext) {
+  const re = /\|\s*image\d*\s*=\s*([^|\n]+)/g;
+  const files = [];
+  let m;
+  while ((m = re.exec(wikitext))) {
+    let val = m[1].trim();
+    const fileLinkMatch = val.match(/\[\[(?:File|Image):([^|\]]+)/i);
+    if (fileLinkMatch) val = fileLinkMatch[1].trim();
+    if (!val || val.startsWith("{{")) continue;
+    files.push(val);
+  }
+  return files;
+}
+
+/** Find a real (non-illustration, non-map) photo referenced anywhere in the species' own article. */
+async function fetchRealPhoto(title) {
+  const wikitext = await fetchArticleWikitext(title);
+  if (!wikitext) return null;
+  const files = extractInfoboxImages(wikitext);
+  const photo = files.find(
+    (f) => !ILLUSTRATION_RE.test(f) && !MAP_HINT_RE.test(f)
+  );
+  return photo ? filePathUrl(photo) : null;
 }
 
 /**
@@ -237,7 +265,7 @@ async function upgradeIllustrations(species) {
   const flagged = species.filter((s) => s.isIllustration);
   console.log(`Looking for real photos to replace ${flagged.length} illustrations...`);
   for (const s of flagged) {
-    const better = await fetchLeadPhoto(s.wikiTitle);
+    const better = await fetchRealPhoto(s.wikiTitle);
     if (better) {
       s.imageUrl = better;
       s.isIllustration = false;
