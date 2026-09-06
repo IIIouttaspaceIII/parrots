@@ -10,6 +10,7 @@ export interface Parrot {
   wikiTitle: string;
   extinct: boolean;
   imageUrl: string;
+  isIllustration: boolean;
   dimorphism: Dimorphism | null;
 }
 

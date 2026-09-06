@@ -109,6 +109,11 @@ export default function ParrotGame() {
             className="object-contain"
             unoptimized
           />
+          {round.target.isIllustration && (
+            <span className="absolute bottom-2 right-2 rounded-full bg-black/60 px-2 py-1 text-xs font-medium text-white">
+              Historical illustration (no photo available)
+            </span>
+          )}
         </div>
 
         {phase === "guessing-species" && (

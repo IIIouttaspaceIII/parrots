@@ -17,6 +17,16 @@ const PHOTO_ALT_RE =
   /(parrot|lory|lorikeet|lovebird|cockatoo|macaw|parakeet|kakapo|kea|kaka|budgerigar|cockatiel|rosella)/i;
 const MAP_HINT_RE =
   /(range|distribution|map|area\.(png|jpg|gif)|dist\.|area2?\.gif)/i;
+// Matches file names of historical illustrations/paintings (common for rare or
+// extinct species) so we can prefer real photos and flag the rest as artwork.
+const ILLUSTRATION_RE =
+  /(keulemans|gould|gronvold|lear|smit|wolf|painting|illustration|engrav|lithograph|drawing|sketch|woodcut|etching|plate[_.]|[_.]plate|artwork)/i;
+
+function isIllustrationFile(url) {
+  if (!url) return false;
+  const fileName = decodeURIComponent(url.split("/").pop() || "");
+  return ILLUSTRATION_RE.test(fileName);
+}
 
 function filePathUrl(fileName) {
   const cleaned = fileName.trim().replace(/ /g, "_");
@@ -85,12 +95,17 @@ function detectGenderOrder(multi) {
 }
 
 function pickPhotoFromFileLinks(links) {
-  // Prefer a link whose alt text looks like a bird description (not a range map).
+  // Prefer a link whose alt text looks like a bird description (not a range map),
+  // and among those prefer a real photo over a historical illustration.
   const good = links.filter(
     (l) => PHOTO_ALT_RE.test(l.alt) && !MAP_HINT_RE.test(l.fileName)
   );
+  const goodPhotos = good.filter((l) => !ILLUSTRATION_RE.test(l.fileName));
+  if (goodPhotos.length) return goodPhotos[goodPhotos.length - 1];
   if (good.length) return good[good.length - 1];
   const nonMap = links.filter((l) => !MAP_HINT_RE.test(l.fileName));
+  const nonMapPhotos = nonMap.filter((l) => !ILLUSTRATION_RE.test(l.fileName));
+  if (nonMapPhotos.length) return nonMapPhotos[nonMapPhotos.length - 1];
   if (nonMap.length) return nonMap[nonMap.length - 1];
   return links.length ? links[links.length - 1] : null;
 }
@@ -183,12 +198,53 @@ function parseRows(wikitext) {
         wikiTitle,
         extinct,
         imageUrl,
+        isIllustration: isIllustrationFile(imageUrl),
         dimorphism,
       });
     }
   }
 
   return species;
+}
+
+/** Look up a species' own Wikipedia article and return its lead image, if any. */
+async function fetchLeadPhoto(title) {
+  const url = `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(
+    title.replace(/ /g, "_")
+  )}`;
+  try {
+    const res = await fetch(url, {
+      headers: { "User-Agent": "parrot-guessing-game-data-fetch/1.0" },
+    });
+    if (!res.ok) return null;
+    const data = await res.json();
+    const source = data.originalimage?.source || data.thumbnail?.source;
+    if (!source || isIllustrationFile(source)) return null;
+    return source;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * The "List of parrots" table sometimes links a historical illustration
+ * instead of a photo (common for rare/extinct species). For those, try the
+ * species' own Wikipedia article for a real photo; if none exists, leave
+ * `isIllustration: true` so the UI can be transparent about it instead of
+ * presenting a drawing as if it were a photograph.
+ */
+async function upgradeIllustrations(species) {
+  const flagged = species.filter((s) => s.isIllustration);
+  console.log(`Looking for real photos to replace ${flagged.length} illustrations...`);
+  for (const s of flagged) {
+    const better = await fetchLeadPhoto(s.wikiTitle);
+    if (better) {
+      s.imageUrl = better;
+      s.isIllustration = false;
+    }
+    // Be polite to the Wikipedia API.
+    await new Promise((r) => setTimeout(r, 150));
+  }
 }
 
 async function main() {
@@ -203,11 +259,15 @@ async function main() {
 
   const species = parseRows(wikitext);
 
+  await upgradeIllustrations(species);
+
   const withImages = species.filter((s) => s.imageUrl);
   const withDimorphism = species.filter((s) => s.dimorphism);
+  const withIllustration = species.filter((s) => s.isIllustration);
 
   console.log(`Parsed ${species.length} species with usable photos.`);
   console.log(`Of which ${withDimorphism.length} have male/female images.`);
+  console.log(`Of which ${withIllustration.length} still only have an illustration.`);
 
   const outDir = path.resolve(process.cwd(), "src", "data");
   fs.mkdirSync(outDir, { recursive: true });
